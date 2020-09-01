@@ -14,11 +14,9 @@ Common documents, links sharing etc.
 
 [Instructables](https://www.instructables.com)
 
-[Makeabox.io](https://makeabox.io)
-
-[Makercase.com](https://makercase.com)
-
 [Hackster.io](https://www.hackster.io)
+
+[All3DP](https://all3dp.com)
 
 [Online File Generators for Laser Cutting](https://makerdesignlab.com/tutorials-tips/online-file-generators-for-laser-cutting)
 
